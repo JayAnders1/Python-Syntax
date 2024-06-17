@@ -14,12 +14,11 @@ else:
 
     # question 6 task 2
 
-    x = 5
-    y = 2
-    z = 3
-    u = 1
-    prediction = x + y >= z or u
+x = 5
+y = 2
+z = 3
+u = 1
+prediction = x + y >= z or u
 
-    if prediction: True
-print ("Correct!")
-
+if prediction == True:
+    print ("Correct!")
