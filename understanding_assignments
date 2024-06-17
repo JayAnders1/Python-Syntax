@@ -1,0 +1,13 @@
+# Question 5 task 1
+
+# Given numbers
+number1 = 5
+number2 = 10
+
+number1, number2 = number2, number1
+
+# Compare to ensure values have been swapped
+if number1 == 10 and number2 == 5:
+    print("Values have been successfully swapped.")
+else:
+    print("Values have not been swapped correctly.")

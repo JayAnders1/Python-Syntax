@@ -1,0 +1,25 @@
+# question 6 task 1
+
+expression = 5 + 6 * 2
+
+result_normal = expression
+
+result_with_parentheses = 5 + (6 * 2)
+
+if result_normal == result_with_parentheses:
+    print("The results match.")
+else:
+    print("The results do not match!")
+
+
+    # question 6 task 2
+
+    x = 5
+    y = 2
+    z = 3
+    u = 1
+    prediction = x + y >= z or u
+
+    if prediction: True
+print ("Correct!")
+

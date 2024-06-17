@@ -1,0 +1,17 @@
+#question 4 task 1
+
+milk = 4
+bread = 3
+eggs = 5
+
+print (milk+bread+eggs)
+
+
+#question 4 task 2
+
+account = 10000
+annual_interest = 0.07
+
+oneyear = account * (1+annual_interest)
+
+print (oneyear)
